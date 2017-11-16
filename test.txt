@@ -1,0 +1,24 @@
+define e ellipse 235.5 345
+define f ellipse 50 50
+define mesg text Times-Roman-10 this is a message
+define c circle 35
+define p polygon 23 34 55 55 22 22
+define r diamond 100 50
+define s square 30
+define t triangle 50 50 60 70 20 40
+define rt right_triangle 50
+define i isosceles 50 200
+define eq equilateral 50
+draw green e 235.5 345
+draw purple f 600 400
+draw white mesg 10 100
+draw blue c 35 35
+draw purple p 500 100
+draw yellow r 400 400
+draw green s 400 30
+draw red t 300 300
+draw brown rt 100 400
+draw grey i 200 300
+draw white eq 400 400
+border red 1
+moveby 20
